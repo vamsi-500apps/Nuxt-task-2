@@ -91,7 +91,7 @@
               </tr>
             </thead>
             <tbody class="divide-y divide-gray-200 bg-white">
-              <tr v-for="(employee, index) in EmployeesData" :key="index">
+              <tr v-for="(employee,index) in EmployeesData" :key="index">
                 <td
                   class="whitespace-nowrap py-2 pl-4 pr-3 text-sm text-gray-500 sm:pl-0"
                 >

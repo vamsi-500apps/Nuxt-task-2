@@ -1,0 +1,15 @@
+{
+  "@vite/client": {
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/home/agile/Desktop/Nuxt-task-2/task3/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "isEntry": true,
+    "file": "/home/agile/Desktop/Nuxt-task-2/task3/node_modules/nuxt/dist/app/entry.js"
+  }
+}
